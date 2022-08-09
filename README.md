@@ -34,7 +34,7 @@ imei    = <imei>
 Will Get Above Details From Finvasia Prism Login or contact them at support
 
 ****
-## Once DOne
+## Once Done
 
 to build this package and install it on your server
 
