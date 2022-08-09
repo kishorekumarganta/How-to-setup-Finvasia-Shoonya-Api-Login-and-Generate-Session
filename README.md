@@ -12,3 +12,20 @@
 
 <p>&nbsp;</p>
 
+<p><em><strong>Now create a config.py file to store passwords.</strong></em></p>
+
+<p>&nbsp;</p>
+
+
+<p><em><strong>Save Below Details in config.py file .</strong></em></p>
+
+#credentials
+user    = <uid>
+pwd     = <password>
+factor2 = <2nd factor>
+vc      = <vendor code>
+app_key = <secret key>
+imei    = <imei>
+  
+ 
+
