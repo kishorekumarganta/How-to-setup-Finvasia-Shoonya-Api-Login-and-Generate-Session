@@ -48,6 +48,32 @@ Right Click > Open Terminal and Type
 ****
 ## Copy api_helper.py file to working folder from shoonya Api. 
 
+****
+## Create test.py file to working folder. 
+
+Install NorenRestAPI.whl from Dist Folder of Shoonya API Code
+
+``` pip install NorenRestApiPy-0.0.20-py2.py3-none-any.whl ```
+
+```python
+import config
+from api_helper import ShoonyaApiPy
+import logging
+
+#enable dbug to see request and responses
+logging.basicConfig(level=logging.DEBUG)
+
+#start of our program
+api = ShoonyaApiPy()  #Create an Object to use
+
+
+ret = api.login(userid=config.user, password=config.pwd, twoFA=config.factor2, vendor_code=config.vc, api_secret=config.app_key, imei=config.imei)
+print(ret)
+```
+
+
+
+
 
 ****
 
