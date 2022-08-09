@@ -46,7 +46,7 @@ Right Click > Open Terminal and Type
 
 
 ****
-## Now copy api_helper file to working folder from shoonya Api. 
+## Copy api_helper.py file to working folder from shoonya Api. 
 
 
 ****
