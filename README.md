@@ -21,11 +21,23 @@
 
 #credentials
 user    = <uid>
+<p>&nbsp;</p>
 pwd     = <password>
+<p>&nbsp;</p>
 factor2 = <2nd factor>
+<p>&nbsp;</p>  
 vc      = <vendor code>
+<p>&nbsp;</p>  
 app_key = <secret key>
+<p>&nbsp;</p>  
 imei    = <imei>
+  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  
+
+  
+  
   
  
 
