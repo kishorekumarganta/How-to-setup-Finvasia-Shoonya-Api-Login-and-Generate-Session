@@ -34,3 +34,20 @@ imei    = <imei>
 Will Get Above Details From Finvasia Prism Login or contact them at support
 
 ****
+## Once DOne
+
+to build this package and install it on your server
+
+go to shoonya API Extracted folder where requirements.txt is there, 
+
+Right Click > Open Terminal and Type
+
+``` pip install -r requirements.txt ```
+
+
+****
+
+
+
+
+
