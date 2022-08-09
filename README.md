@@ -56,9 +56,13 @@ Install NorenRestAPI.whl from Dist Folder of Shoonya API Code
 ``` pip install NorenRestApiPy-0.0.20-py2.py3-none-any.whl ```
 
 ``` pip install requests ```
+
 ``` pip install websocket_client ```
+
 ``` pip install pandas ```
+
 ``` pip install pyyaml ```
+
 ``` pip install requests ```
 
 
